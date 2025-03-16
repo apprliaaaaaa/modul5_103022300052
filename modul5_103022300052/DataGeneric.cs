@@ -17,7 +17,7 @@ namespace modul5_103022300052
 
         public void PrintData()
         {
-            Console.WriteLine($"Data yang tersimpan adalah: {data}");
+            Console.WriteLine($"Data NIM yang tersimpan adalah: {data}");
         }
     }
 }
